@@ -1,0 +1,24 @@
+[
+	{
+		"Id": "001",
+		"Level" : 100,
+		"Name": "BSaur",
+		"Hp": 45,
+		"Atk": 49,
+		"Def": 49,
+		"SpAtk": 65,
+		"SpDef": 65,
+		"Spe": 45
+	},
+	{
+		"Id": "002",
+		"Level": 100,
+		"Name": "VySaur",
+		"Hp": 60,
+		"Atk": 62,
+		"Def": 63,
+		"SpAtk": 80,
+		"SpDef": 80,
+		"Spe": 60
+	}
+]
